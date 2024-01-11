@@ -1,4 +1,4 @@
-# Sistem Pakar Diagnosa Tingkat Depresi Mahasiswa Tingkat Akhir
+# Sistem Pakar Diagnosa Kerusakan Sepeda Motor Type Injeksi
 
 <h2>DIAGNOSA DALAM MENGETAHUI KERUSAKAN SEPEDA MOTOR TYPE INJEKSI DENGAN METODE CERTAINTY FACTOR</h2>
 

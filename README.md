@@ -1,20 +1,27 @@
 # Sistem Pakar Diagnosa Tingkat Depresi Mahasiswa Tingkat Akhir
 
-<h2>DIAGNOSA TINGKAT DEPRESI MAHASISWA TINGKAT AKHIR DENGAN METODE CERTAINTY FACTOR DAN FORWARD CHAINING</h2>
+<h2>DIAGNOSA DALAM MENGETAHUI KERUSAKAN SEPEDA MOTOR TYPE INJEKSI DENGAN METODE CERTAINTY FACTOR</h2>
 
 ## Berikut tampilan sistem yang di buat.
 
 -   Home
     <img
-        src="https://user-images.githubusercontent.com/55641225/210590987-d726e463-4047-4bf9-aacc-30a2621b9d5d.png"
+        src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.22.17_0d0edac4.jpg?raw=true"
         alt="home"
+        srcset=""
+    />
+
+    -   Login
+    <img
+        src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.22.37_1e3cfb98.jpg?raw=true"
+        alt="login"
         srcset=""
     />
 
 -   Dashboard
 
 <img
-    src="https://user-images.githubusercontent.com/55641225/210591006-173cd002-1844-454c-89c0-bb9bc4ad5a58.png"
+    src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.23.11_709b1721.jpg?raw=true"
     alt="dashboard"
     srcset=""
 />
@@ -22,47 +29,40 @@
 -   Gejala
 
 <img
-    src="https://user-images.githubusercontent.com/55641225/210591008-261206fc-27f1-4997-8970-3d93961a37d3.png"
+    src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.24.27_511d13a6.jpg?raw=true"
     alt="gejala"
     srcset=""
 />
 
--   Gangguan Depresi
+-   Kerusakan
 
 <img
-    src="https://user-images.githubusercontent.com/55641225/210591019-46baab91-d130-4b61-a0d3-fc5128ae8690.png"
-    alt="depresi"
+    src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.24.37_0ff3018b.jpg?raw=true"
+    alt="kerusakan"
     srcset=""
 />
 
 -   Form Diagnosa
 
 <img
-    src="https://user-images.githubusercontent.com/55641225/210591073-95efadbc-d1c3-43ae-a37a-cf28ae7249ee.png"
+    src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.23.27_5443b54c.jpg?raw=true"
     alt="form-diagnosa"
 />
 
 -   Hasil Diagnosa
 
 <img
-    src="https://user-images.githubusercontent.com/55641225/210591083-5026f305-d148-4e5e-8fd8-272819ff165b.png"
+    src="https://github.com/Azmiriyadin/certainyfactorUAS/blob/master/WhatsApp%20Image%202024-01-11%20at%2019.24.05_741629d9.jpg?raw=true"
     alt="hasil-diagnosa"
 />
 
-<img
-    src="https://user-images.githubusercontent.com/55641225/210591088-3a2380eb-3fb5-4f48-9e9c-5487e9afc1e4.png"
-    alt="hasil-diagnosa2"
-/>
-
 <ol>
-    <li><a href="https://github.com/alfiatqia26" target="_blank">Alfi Atqia R.</li>
-    <li><a href="https://github.com/canggihwr" target="_blank">Canggih Wahyu R.</a></li>
-    <li><a href="https://github.com/Andrian17" target="_blank">Andrian</a></li>
+    <li><a href="https://github.com/Azmiriyadin" target="_blank">M AZMI ZAMZAMI RIAYDIN</li>
+    <li><a href="https://github.com/aprizalr" target="_blank">M APRIZAL RENALDI</a></li>
+    <li><a href="https://github.com/dimasputra20" target="_blank">DIMAS ARIF SAPUTRA</a></li>
 <ol>
 
 ## Menjalankan Program
-
-## .env.example => .env => set
 
 ### php artisan key:generate
 
@@ -70,12 +70,22 @@
 
 ### composer install
 
-### php artisan migrate:fresh --seed
-
 ### php artisan serve
 
 ## Login
 
 ### email : admin@example.com
+
+### password : password
+
+### email : aprizal@admin.com
+
+### password : password
+
+### email : azmi@admin.com
+
+### password : password
+
+### email : dimas@admin.com
 
 ### password : password

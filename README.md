@@ -57,7 +57,7 @@
 />
 
 <ol>
-    <li><a href="https://github.com/Azmiriyadin" target="_blank">M AZMI ZAMZAMI RIAYDIN</li>
+    <li><a href="https://github.com/Azmiriyadin" target="_blank">M AZMI ZAMZAMI RIYADIN</li>
     <li><a href="https://github.com/aprizalr" target="_blank">M APRIZAL RENALDI</a></li>
     <li><a href="https://github.com/dimasputra20" target="_blank">DIMAS ARIF SAPUTRA</a></li>
 <ol>
